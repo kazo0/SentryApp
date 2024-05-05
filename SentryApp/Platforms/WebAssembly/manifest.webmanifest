@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "SentryApp",
+  "display": "standalone",
+  "name": "SentryApp",
+  "short_name": "SentryApp",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
